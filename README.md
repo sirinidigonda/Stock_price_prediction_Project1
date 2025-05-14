@@ -66,6 +66,12 @@ A chart showing the RSI of the stock, indicating overbought or oversold conditio
 Predictions vs Actual:
 The stock's predicted prices are compared with the actual closing prices in a plot.
 
+Dependencies:
+streamlit
+pandas
+numpy
+yfinance
+
 Deployment:
 This project can be deployed using Streamlit Cloud or Heroku for online access. You can also run it locally using Streamlit.
 
