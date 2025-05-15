@@ -76,9 +76,9 @@ Deployment:
 This project can be deployed using Streamlit Cloud or Heroku for online access. You can also run it locally using Streamlit.
 
 Deliverables:
-Jupyter Notebook: The Jupyter notebook that demonstrates the complete workflow (data preparation, model building, training, validation, and prediction).
+VS Code Project: A Python-based project developed in VS Code that demonstrates the complete workflow — data preparation, model building, training, validation, and prediction.
 Model Weights: The trained LSTM model weights saved in .h5 format.
-Graphs: Plots for stock price predictions, Moving Average, and RSI.
+Graphs: Visualizations for stock price predictions, 20-Day Moving Average, and RSI (Relative Strength Index).
 Streamlit Link: The deployed Streamlit dashboard for user interaction. Here is the link:https://stockpricepredictionproject1-ahorgzdnl3li59v3rp9nqc.streamlit.app/
 
 Future Improvements:
