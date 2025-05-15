@@ -19,9 +19,9 @@ def compute_rsi(series, window=14):
 st.title("📈 Stock Price Prediction Dashboard")
 
 # Input fields
-ticker = st.text_input("Enter stock ticker (e.g., AAPL, MSFT):", "AAPL")
-start_date = st.date_input("Start Date", pd.to_datetime("2015-01-01"))
-end_date = st.date_input("End Date", pd.to_datetime("2024-12-31"))
+ticker = st.text_input("Enter stock ticker (e.g., AAPL, MSFT):", "AAPL", key="ticker_input")
+start_date = st.date_input("Start Date", pd.to_datetime("2015-01-01"), key="start_date_input")
+end_date = st.date_input("End Date", pd.to_datetime("2024-12-31"), key="end_date_input")
 
 # Fetch data and proceed if ticker is entered
 if ticker:
