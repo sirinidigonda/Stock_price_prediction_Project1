@@ -24,9 +24,9 @@ TensorFlow: For training the model and implementing deep learning
 Streamlit: For creating the interactive dashboard
 
 Installation:
-1. Clone the repository:
-git clone https://github.com/your-username/stock-price-trend-prediction.git
-cd stock-price-trend-prediction
+1.Clone the repository:
+git clone https://github.com/sirinidigonda/Stock_price_prediction_Project1.git
+cd Stock_price_prediction_Project1
 2. Create a virtual environment:
 python -m venv venv
 3. Activate the virtual environment:
