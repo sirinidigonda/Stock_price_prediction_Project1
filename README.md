@@ -75,6 +75,10 @@ yfinance
 Deployment:
 This project can be deployed using Streamlit Cloud or Heroku for online access. You can also run it locally using Streamlit.
 
+Demo: 
+Screen recording available in the repository
+Streamlit link is also provided in below section
+
 Deliverables:
 VS Code Project: A Python-based project developed in VS Code that demonstrates the complete workflow — data preparation, model building, training, validation, and prediction.
 Model Weights: The trained LSTM model weights saved in .h5 format.
